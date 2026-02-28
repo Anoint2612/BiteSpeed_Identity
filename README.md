@@ -116,7 +116,7 @@ npm run test
 ```
 
 ### Measured Constraints Successfully Applied:
-✅ Handled overlapping Primary Demotion (Merge collisions)
-✅ Implemented complete SQL Transactionality avoiding race condition duplicates
-✅ Verified robust payload data type fallbacks (Null constraints bypass)
+✅ Handled overlapping Primary Demotion (Merge collisions) \
+✅ Implemented complete SQL Transactionality avoiding race condition duplicates \
+✅ Verified robust payload data type fallbacks (Null constraints bypass) \
 ✅ Native insertion-order integrity ensuring oldest components always lead the arrays
